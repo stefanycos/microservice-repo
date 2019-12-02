@@ -1,1 +1,1 @@
-# microservice-repo
+# Spring configuration repository
